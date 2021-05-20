@@ -206,5 +206,5 @@ class InstaDroid:
 
 
 # Insira o usuário e senha aqui
-Login_Function = InstaDroid("photovich_click", "3JhGHIf6Km0GeedQqFt#Ej&#0ll$D80XbeAwW&5NF3")
+Login_Function = InstaDroid("usuario", "senha")
 Login_Function.login()
