@@ -1,4 +1,4 @@
-# Bem vindo ao Instadroid
+# Bem vindo ao Instadroid(OBSOLETE)
 
 Olá, esse é um projeto criado para aumentar as suas interações e arrecadar mais seguidores no instagram.
 **ThalisDev**
